@@ -21,10 +21,4 @@ If the answer is yes, the phone will send back its MAC address to me.
 
 Q1:How did you know the phone was the correct?
 
-A1:We have the password "AID" in the third bytearray. 
-
-   And checked if the phone's AID was the same.
-   
-   So we had to develop an APP on the phone, and get its AID by NFC.
-   
-   But the APP part I can't provide.
+A1:We have the password "AID" in the third bytearray. And checked if the phone's AID was the same.So we had to develop an APP on the phone, and get its AID by NFC.But the APP part I can't provide.
